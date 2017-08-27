@@ -1,0 +1,4 @@
+ html { box-sizing: border-box; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; }
+ .root{
+     padding: 100px;
+ }
